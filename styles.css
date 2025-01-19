@@ -1,0 +1,113 @@
+body {
+    background-color:  	#1f8dba;
+    font-family: 'Roboto', sans-serif;
+    margin-left: 13%;
+    margin-right: 13%;
+    margin-top: 0px;
+    margin-bottom:0px;
+}
+
+#heading{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: white;
+    margin-bottom: 0px;
+    border-bottom: solid black;
+}
+
+#profilePhoto {
+    height: 200px;
+    width: 200px;
+    object-fit: cover;
+    border-radius: 100%;
+    padding: 20px;
+    margin-right: 20px;
+}
+
+#name {
+    font-family: 'Kanit', sans-serif;
+    font-size:xx-large;
+    margin-bottom: 0px;
+}
+
+#bio {
+    width: 300px;
+    margin-top: 10px;
+}
+
+#content {
+    background-color: #c9e9f6;
+    margin-top:0px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+
+}
+
+.aboutMe {
+    margin-bottom: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding-top: 5px;
+
+}
+
+.blockTitle {
+    font-family: 'Kanit', sans-serif;
+    padding-left: 10px;
+}
+
+.courseTitle {
+    font-family: 'Kanit', sans-serif;
+    font-weight: bold;
+}
+
+
+
+#courseList {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: flex-start;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+#skillList{
+    display: flex;
+    flex-direction: row;
+    padding-left: 30px;
+    padding-right: 30px;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.course, .skill {
+    border: #45b3e0 solid;
+    padding: 5px;
+    width: 300px;
+    margin: 10px;
+    background-color: #45b3e0;
+    color: black;
+}
+
+.skill {
+    padding: 5px;
+    width: auto;
+}
+
+.courseTitle {
+    font-weight: bold;
+}
+.courseDescription {
+    font-size: small;
+}
+
+#favs {
+    display: flex;
+    flex-direction: row;
+    padding: 10px 10px 10px 10px;
+}
+.favThing img{
+    width: 100%;
+}
