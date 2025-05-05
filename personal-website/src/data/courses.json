@@ -1,0 +1,76 @@
+{
+    "title": "classes",
+    "courses": [
+      {
+        "title": "Modern Web Programming",
+        "description": "Covers client-side and server-side programming, Model-View-Controller architecture, AJAX, RESTful web services, and databases.",
+        "semester": "S25",
+        "skills": [],
+        "projecturl": ""
+      },
+      {
+        "title": "Computer Organization",
+        "description": "Learn to program in Assembly while covering the fundamentals of computer hardware design, transistors, and logic gates.",
+        "semester": "S25",
+        "skills": [],
+        "projecturl": ""
+      },
+      {
+        "title": "Probability",
+        "description": "",
+        "semester": "S25",
+        "skills": [],
+        "projecturl": ""
+      },
+      {
+        "title": "System Fundamentals",
+        "description": "Connects high level programming languages to primitive computer processes.",
+        "semester": "F24",
+        "skills": [],
+        "projecturl": ""
+      },
+      {
+        "title": "Foundations of Programming",
+        "description": "Covers common design patterns found in object oriented programming such as Model-View-Controller, threads, GUIs",
+        "semester": "F24",
+        "skills": [],
+        "projecturl": ""
+      },
+      {
+        "title": "Data Structures",
+        "description": "Understand different ways to represent data, their pros and cons, as well as a few sorting and traversal algorithms.",
+        "semester": "S24",
+        "skills": [],
+        "projecturl": ""
+      },
+      {
+        "title": "Intro to Programming",
+        "description": "Learn python basics as well as looping, recursion, creation of variables, and built my first programs",
+        "semester": "F23",
+        "skills": [],
+        "projecturl": ""
+      },
+      {
+        "title": "Intro to Data Science",
+        "description": "Use python to process and visualize data",
+        "semester": "S25",
+        "skills": [],
+        "projecturl": ""
+      },
+      {
+        "title": "Linear Algrebra",
+        "description": "",
+        "semester": "F24",
+        "skills": [],
+        "projecturl": ""
+      },
+      {
+        "title": "Discrete Math",
+        "description": "S24",
+        "semester": "",
+        "skills": [],
+        "projecturl": ""
+      }
+    ]
+  }
+  
